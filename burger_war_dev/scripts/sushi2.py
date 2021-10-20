@@ -331,3 +331,4 @@ if __name__ == '__main__':
     rospy.init_node('sushi')
     bot = NaviBot()
     bot.strategy()
+
